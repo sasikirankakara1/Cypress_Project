@@ -6,5 +6,6 @@ describe("Launch Browser",()=>{
     })
     it.only('Google',async()=>{
         cy.log('Title of the Page: ',cy.url())
+        
     })
 })
