@@ -60,7 +60,7 @@ The goal is to validate **real user behaviors**, **negative scenarios**, and **e
 
 | 🆔 Test ID | 🧪 Task Name | 📝 Field Under Test | 🚫 Input Condition | 🎯 Expected Validation Message |
 |-----------|-------------|-------------------|------------------|-------------------------------|
-| EFV_01 | Empty Username Validation | Username | Left Blank | Username is required |
+| EFV_01 | Empty Fields Validation | Username | Left Blank | Both fields are required |
 
 
 ---
