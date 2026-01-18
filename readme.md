@@ -89,12 +89,7 @@ The goal is to validate **real user behaviors**, **negative scenarios**, and **e
 🔜 CI Integration  
 🔜 Detailed Reports & Dashboards  
 
----
 
-<p align="center">
-⚡ Built with passion for Automation Excellence ⚡
-</p>
----
 
 ## ©️ Copyright & Usage
 
@@ -108,4 +103,9 @@ You are free to **learn, explore, and practice** using this repository.
 
 If you use this project as a reference, please give proper credit to **Kakara Sasikiran**.
 
+---
+
+<p align="center">
+⚡ Built with passion for Automation Excellence ⚡
+</p>
 ---
