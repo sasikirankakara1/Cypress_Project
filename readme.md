@@ -94,3 +94,18 @@ The goal is to validate **real user behaviors**, **negative scenarios**, and **e
 <p align="center">
 ⚡ Built with passion for Automation Excellence ⚡
 </p>
+---
+
+## ©️ Copyright & Usage
+
+© 2026 **Kakara Sasikiran**. All rights reserved.
+
+This project is created **strictly for educational and learning purposes**.  
+You are free to **learn, explore, and practice** using this repository.
+
+❌ Commercial use is not permitted  
+❌ Redistribution as your own work is not allowed  
+
+If you use this project as a reference, please give proper credit to **Kakara Sasikiran**.
+
+---
